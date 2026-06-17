@@ -73,3 +73,56 @@ print("I will master Python in",years_to_master,"yrs")
 
 years_to_master=1
 print("or I will try my best to master python in ",years_to_master,"yr")
+
+
+
+
+
+#----DATA TYPES----
+
+#Integer 
+my_age=18
+print(type(my_age))
+
+#float
+my_height=5.7
+print(type(my_height))
+
+#string
+my_name="Vyomesh"
+print(type(my_name))
+
+#boolean
+is_employed=False
+print(type(is_employed))
+
+#Checking Types of expressions
+print(type(42))
+print(type(3.14))
+print(type("python"))
+print(type(True))
+
+
+
+#MY DATA TYPES EXERCISE
+
+
+#for int
+crushs_age=18
+print(type(crushs_age))
+
+#for float
+crushs_height=5.3
+print(type(crushs_height))
+
+#for string
+my_goal="To Become The Greatest"
+print(type(my_goal))
+
+#for boolean
+is_rich=False
+print(type(is_rich))
+
+result= crushs_age + crushs_height
+print(type(result))
+
