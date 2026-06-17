@@ -126,3 +126,50 @@ print(type(is_rich))
 result= crushs_age + crushs_height
 print(type(result))
 
+
+
+
+#----TYPE CONVERSION----
+
+
+#String to int
+age_as_string= "18"
+age_as_int=int(age_as_string)
+print(age_as_int)
+print(type(age_as_int))
+
+#string to float
+height_as_string= "5.7"
+height_as_float= float(height_as_string)
+print(height_as_float)
+print(type(height_as_float))
+
+#int to string 
+score=100
+score_as_string=str(score)
+print(score_as_string)
+print(type(score_as_string))
+
+#float to int -- notice what happens to decimal
+gpa=9.8
+gpa_as_int=int(gpa)
+print(gpa_as_int)
+
+#bool conversions
+print(bool(0))
+print(bool(42))
+print(bool(""))
+print(bool("Python"))
+
+
+
+#MY CONVERSION EXERCISE
+
+birth_year="2007"
+birth_year_as_int=int(birth_year)
+print("my current age is",2026-birth_year_as_int)
+
+gpa_as_float=8.7
+gpa_as_int2=int(gpa_as_float)
+
+print("the gpa as float would be",gpa_as_float,"and as int it would be",gpa_as_int2)
