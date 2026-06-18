@@ -19,4 +19,6 @@ else:
     grade=("FAIL")
 
 
-print("Total Marks You've Obatained:",total_marks,". And the total Percentage you got is",score,"%. Your Grade:",grade)
+print("Total Marks You've Obtained:",total_marks,". And the total Percentage you got is",score,"%. Your Grade:",grade)
+
+
