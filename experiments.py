@@ -19,3 +19,10 @@ for numb in numbers:
     squared.append(numb ** 2)
 
 print(squared)   # [1, 4, 9, 16, 25]
+
+
+numbb=9/2
+print(numbb)
+
+numb1=9/0
+print(numb1)
