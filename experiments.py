@@ -24,5 +24,14 @@ print(squared)   # [1, 4, 9, 16, 25]
 numbb=9/2
 print(numbb)
 
-numb1=9/0
-print(numb1)
+#numb1=9/0
+#print(numb1)
+
+
+# LIST — ordered, changeable, duplicates allowed
+my_list = [1, 2, 3]
+my_list[0]                   # access by index
+my_list[-1]                  # last item
+my_list.append(4)            # add to end
+my_list.insert(1, 99)        # insert at index
+
