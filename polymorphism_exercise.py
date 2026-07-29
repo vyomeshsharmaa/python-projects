@@ -44,8 +44,3 @@ staff=[
 for person in staff:
     print(person.describe())
     print("Annual Bonus:", person.annual_bonus())
-
-
-
-
-

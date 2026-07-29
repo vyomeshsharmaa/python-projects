@@ -1,0 +1,20 @@
+Vyomesh earns 1900000000Krish earns 190000, and is being mentored by VyomeshVoid earns 900000, manages a team of 10
+--- Run 1 ---
+Vyomesh earns 1900000000
+Krish earns 190000, and is being mentored by Vyomesh
+Void earns 900000, manages a team of 10
+
+--- Run 1 ---
+Vyomesh earns 1900000000
+Krish earns 190000, and is being mentored by Vyomesh
+Void earns 900000, manages a team of 10
+
+--- Run 2 ---
+Vyomesh earns 1900000000
+Krish earns 190000, and is being mentored by Vyomesh
+Void earns 900000, manages a team of 10
+
+--- Run 1 ---
+Vyomesh earns 1900000000
+Krish earns 190000, and is being mentored by Vyomesh
+Void earns 900000, manages a team of 10
