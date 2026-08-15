@@ -15,4 +15,4 @@ staff = [
     employee2_module.Manager("Void", 900000, 10)
 ]
 
-print(f"Total Salary of staff {employee2_module.total_payroll(staff)}")
+print(f"Total Salary of staff {employee2_module.total_payroll(staff)}") 
